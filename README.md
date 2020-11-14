@@ -12,6 +12,9 @@ High quality YouTube video -> audio converter in CLI. Built using Python3. Embed
 5. Install PyTube separately through `python -m pip install git+https://github.com/nficano/pytube` 
 6. Run `python app.py` 
 
+### Video Demo 
+https://vimeo.com/479255729
 
-
-## Running
+## Notes
+- The artist name field is required for the album art to be embedded properly
+- PyTube has been observed to NOT work for a long period of time due to changes in YouTube's internal structure. Feel free to open any issues :)
