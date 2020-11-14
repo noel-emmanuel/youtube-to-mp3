@@ -8,9 +8,22 @@ import requests
 
 #--------- DOWNLOADING AUDIO FROM YOUTUBE -----------------
 # user inputs
-yt_link = input("Enter The YouTube Link { with https } : ")
+
+
+print("""
+ __     _________       __     __  __ _____ ____  
+ \ \   / /__   __|      \ \   |  \/  |  __ \___ \ 
+  \ \_/ /   | |     _____\ \  | \  / | |__) |__) |
+   \   /    | |    |______> > | |\/| |  ___/|__ < 
+    | |     | |          / /  | |  | | |    ___) |
+    |_|     |_|         /_/   |_|  |_|_|   |____/ 
+                                                  
+                                                  
+""")
+
+yt_link = input("Enter The YouTube Link { with https } : \n")
 path1 = '.'
-artist_name = input("Enter artist_name : ")
+artist_name = input("Enter artist_name : \n")
 
 # downloading video using pytube
 yt = YouTube(yt_link)
