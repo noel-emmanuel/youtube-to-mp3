@@ -1,7 +1,7 @@
 # youtube-to-mp3
 High quality YouTube video -> audio converter in CLI. Built using Python3. Embeds artist name and cover image into songs.
 
-![](https://media.giphy.com/media/NA6hsgOuX1ZOujEuBW/giphy.gif)
+![app demo](https://media.giphy.com/media/NA6hsgOuX1ZOujEuBW/giphy.gif)
 
 
 ## Setup & Installation
@@ -12,8 +12,6 @@ High quality YouTube video -> audio converter in CLI. Built using Python3. Embed
 5. Install PyTube separately through `python -m pip install git+https://github.com/nficano/pytube` 
 6. Run `python app.py` 
 
-### Video Demo (click to play...)
-[![Watch the video](https://i.imgur.com/HWXfJoN.png)](https://vimeo.com/479255729)
 
 
 ## Running
