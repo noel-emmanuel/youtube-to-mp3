@@ -13,8 +13,6 @@ packaging==20.4
 Pillow==8.0.0
 proglog==0.1.9
 pyparsing==2.4.7
-pytube==9.6.0
-pytube3==9.6.4
 requests==2.24.0
 six==1.15.0
 tqdm==4.50.2
