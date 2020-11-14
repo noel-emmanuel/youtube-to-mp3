@@ -9,7 +9,7 @@ import requests
 #--------- DOWNLOADING AUDIO FROM YOUTUBE -----------------
 # user inputs
 yt_link = input("Enter The YouTube Link { with https } : ")
-path1 = './audio'
+path1 = '.'
 artist_name = input("Enter artist_name : ")
 
 # downloading video using pytube
