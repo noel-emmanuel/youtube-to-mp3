@@ -7,6 +7,7 @@ High quality YouTube video -> audio converter in CLI. Built using Python3. Embed
 
 ### Video Demo (click to play...)
 [![Watch the video](https://i.imgur.com/HWXfJoN.png)](https://vimeo.com/479255729){:target="_blank"}
+<p><a href="https://vimeo.com/479255729"> alt="watch the video on vimeo" src="https://i.imgur.com/HWXfJoN.png"></a></p>
 
 
 ## Running
