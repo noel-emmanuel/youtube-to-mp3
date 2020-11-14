@@ -1,7 +1,7 @@
 # youtube-to-mp3
 High quality YouTube video -> audio converter in CLI. Built using Python3. Embeds artist name and cover image into songs.
 
-https://media.giphy.com/media/NA6hsgOuX1ZOujEuBW/giphy.gif
+![](https://media.giphy.com/media/NA6hsgOuX1ZOujEuBW/giphy.gif)
 
 
 ## Setup & Installation
