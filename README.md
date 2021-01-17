@@ -2,7 +2,7 @@
 Python3 script to bulk download youtube links in .txt file to mp3 format. Embeds artist name and cover image into songs.
 
 # demo (youtube video)
-[![video demo](../blob/master/demo.png)](https://youtu.be/4hJfliQ6g8w)
+[![video demo](demo.png)](https://youtu.be/4hJfliQ6g8w)
 
 
 ## Setup & Installation
