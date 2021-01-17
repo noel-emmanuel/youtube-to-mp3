@@ -1,6 +1,10 @@
 # youtube-to-mp3
 Python3 script to bulk download youtube links in .txt file to mp3 format. Embeds artist name and cover image into songs.
 
+# demo
+[![video demo](https://github.com/noel-emmanuel/youtube-to-mp3/blob/master/demo.png)](https://youtu.be/4hJfliQ6g8w)
+
+
 ## Setup & Installation
 1. Clone this repo (either by SSH-ing or by direct downloading it)
 2. Navigate to `youtube-to-mp3` folder which you have downloaded
