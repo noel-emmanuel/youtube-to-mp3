@@ -1,7 +1,11 @@
 # youtube-to-mp3
 Python3 script to bulk download youtube links in .txt file to mp3 format. Embeds artist name and cover image into songs.
 
+# Why I made this
+I've found various solutions online (both web and CLI based) that allow you to download songs individually. These projects receive a youtube url as input and you get an mp3 audio as the output. This works, ...but I found myself repeating the same procedure multiple times, especially if you'd want to download multiple songs from different playlists. What if there was a way for me to download 20+ songs by just running a single script? This project solves exactly that!
+
 # demo (youtube video)
+demo using only 1 link in a text file.
 [![video demo](demo.png)](https://youtu.be/4hJfliQ6g8w)
 
 
